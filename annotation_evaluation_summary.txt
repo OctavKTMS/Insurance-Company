@@ -1,0 +1,6 @@
+Total companies: 9494
+Mean top similarity: 0.3529
+Median top similarity: 0.3500
+Percent >=0.28: 94.26%
+Average labels per company: 4.2886
+Unique taxonomy labels assigned: 220
